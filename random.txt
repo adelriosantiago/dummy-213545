@@ -1,7 +1,4 @@
 let message = "world";
-<<<<<<< HEAD
-alert("BBB"); // A comment here
-=======
-alert("AAA"); // A comment here
+alert("sure BBB"); // A comment here
 >>>>>>> f2ea2954db0cfb91ae674f4e1d6e8b3f513b5c95
 console.log("random log", mesage);
