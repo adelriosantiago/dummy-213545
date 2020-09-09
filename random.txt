@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 let message = "world++";
+=======
+let message = "earth";
+>>>>>>> 4926dc4b286cdeb96387a7f366212d1d84446a4c
 <<<<<<< HEAD
 alert("sure BBB"); // A comment here
 >>>>>>> f2ea2954db0cfb91ae674f4e1d6e8b3f513b5c95
