@@ -1,5 +1,3 @@
-sample random text
-sample random text
-sample random text 123 from computer A +++
-sample random text
-sample random text from computer B
+let message = "world";
+alert("hello world"); // A comment here
+console.log("random log", mesage);
