@@ -2,4 +2,4 @@ sample random text
 sample random text
 sample random text from computer A
 sample random text
-sample random text
+sample random text from computer B
