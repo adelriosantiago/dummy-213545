@@ -1,4 +1,8 @@
 let message = "world";
+<<<<<<< HEAD
 alert("sure BBB"); // A comment here
 >>>>>>> f2ea2954db0cfb91ae674f4e1d6e8b3f513b5c95
+=======
+alert("ok BBB"); // A comment here
+>>>>>>> ba12c0d8851cadd2d204e55c486ecb33d19f01a4
 console.log("random log", mesage);
