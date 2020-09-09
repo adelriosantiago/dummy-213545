@@ -1,9 +1,5 @@
 sample random text
 sample random text
-<<<<<<< HEAD
-sample random text from computer A +++
-=======
-sample random text 123 from computer A
->>>>>>> 2e50fa09d0d92ed3569583c2390ec8e77f067957
+sample random text 123 from computer A +++
 sample random text
 sample random text from computer B
